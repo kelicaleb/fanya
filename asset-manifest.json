@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/fanya/static/css/main.dc7b1b4c.css",
-    "main.js": "/fanya/static/js/main.d4b0dc74.js",
+    "main.css": "/fanya/static/css/main.3d6cc55e.css",
+    "main.js": "/fanya/static/js/main.32041f7e.js",
     "static/js/787.b202ecb1.chunk.js": "/fanya/static/js/787.b202ecb1.chunk.js",
     "static/media/logo.svg": "/fanya/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/fanya/index.html",
-    "main.dc7b1b4c.css.map": "/fanya/static/css/main.dc7b1b4c.css.map",
-    "main.d4b0dc74.js.map": "/fanya/static/js/main.d4b0dc74.js.map",
+    "main.3d6cc55e.css.map": "/fanya/static/css/main.3d6cc55e.css.map",
+    "main.32041f7e.js.map": "/fanya/static/js/main.32041f7e.js.map",
     "787.b202ecb1.chunk.js.map": "/fanya/static/js/787.b202ecb1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dc7b1b4c.css",
-    "static/js/main.d4b0dc74.js"
+    "static/css/main.3d6cc55e.css",
+    "static/js/main.32041f7e.js"
   ]
 }
